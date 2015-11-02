@@ -1,1 +1,1 @@
-# google-homepage Google homepage from www.theodinproject.org
+# google-homepage Google homepage from www.theodinproject.com
